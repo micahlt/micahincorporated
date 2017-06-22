@@ -1,3 +1,7 @@
+* {
+  background-color: "CadetBlue";
+}
+
 h1 {
   font-size: 140px;
   padding: 0px;
@@ -22,5 +26,5 @@ h3 {
 }
 
 .rest {
-  background-color: "DeepSkyBlue";
+  
 }
