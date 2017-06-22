@@ -1,7 +1,12 @@
-.header{
+h1 {
+  font-size: 200px;
+}
+.header {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;
   background-size: cover;
   height: 800px;
 }
+
+
