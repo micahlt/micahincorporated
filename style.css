@@ -25,6 +25,11 @@ h3 {
   text-align: center;
 }
 
+.editing {
+  padding: 20px 20px 20px 0px;
+  text-align: center;
+}
+
 .rest {
   
 }
