@@ -13,28 +13,25 @@ h1 {
   padding: 0px;
 }
 
+
 h3 {
-  background-color: CadetBlue;
   text-align: center;
   font-family: 'Raleway', sans-serif;
 }
 
 p {
-  background-color: CadetBlue;
   font-family: 'Raleway', sans-serif;
 }
 .design {
-  background-color: CadetBlue;
   padding: 20px 20px 20px 0px;
   text-align: center;
 }
 
 .editing {
-  background-color: CadetBlue;
   padding: 20px 20px 20px 0px;
   text-align: center;
 }
 
-.rest {
-
+.feathersc {
+  background-color: #33CC99;
 }
