@@ -13,11 +13,12 @@ h1 {
 
 
 h3 {
-  text-align: center;
+  text-align: left;
   font-family: 'Raleway', sans-serif;
 }
 
 p {
+  text-align: left;
   font-family: 'Raleway', sans-serif;
 }
 .design {
