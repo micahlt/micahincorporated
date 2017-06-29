@@ -1,3 +1,12 @@
+.navi{
+  padding: 15px;
+  border: 2px solid #0A1D4C;
+  background-color: #0A1D4C;
+}
+
+h5 {
+  color: White;
+}
 
 h1 {
   font-size: 105px;
