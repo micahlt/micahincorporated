@@ -1,3 +1,7 @@
+body{
+    background-image: -webkit-linear-gradient(#85E839, #3FFF9E)
+}
+
 .navi{
   text-align: center;
   padding: 15px;
@@ -41,8 +45,4 @@ p {
 .editing {
   padding: 20px 20px 20px 0px;
   text-align: center;
-}
-
-.feathersc {
-  background-image: -webkit-linear-gradient(#85E839, #3FFF9E)
 }
