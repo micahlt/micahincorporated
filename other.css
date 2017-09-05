@@ -4,6 +4,10 @@ h1 {
   padding: 0px;
 }
 
+a {
+  color: Black;
+}
+
 .header {
   font-family: 'Raleway', sans-serif;
   text-align: left;
