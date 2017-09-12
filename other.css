@@ -37,3 +37,8 @@ p {
 body {
   background-color: #AFED62;
 }
+
+img {
+  display: block;
+  margin: auto;
+}
