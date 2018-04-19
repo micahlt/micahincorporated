@@ -172,7 +172,9 @@ h8 {
   height: 800px;
   padding: 0px;
 }
-
+.header img{
+  width: 20%;
+}
 
 h3 {
   text-align: center;
