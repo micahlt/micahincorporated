@@ -21,13 +21,14 @@ h1 {
 }
 
 .header {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Megrim', sans-serif;
   text-align: center;
   background: url(https://static.pexels.com/photos/270404/pexels-photo-270404.jpeg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   height: 800px;
   padding: 0px;
+  color: white
 }
 
 
@@ -168,13 +169,14 @@ h8 {
   color: #ffffff;
 }
 .header {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Megrim', sans-serif;
   text-align: center;
   background: url(https://github.com/micahlt/Files/blob/master/giphy.gif?raw=true) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   height: 800px;
   padding: 0px;
+  color: white
 }
 .header img{
   width: 20%;
