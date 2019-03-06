@@ -171,8 +171,10 @@ h8 {
 .header {
   font-family: 'Megrim', sans-serif;
   text-align: center;
-  background: url(https://raw.githubusercontent.com/micahlt/micahincorporated/master/22C05A53-3280-4231-AB74-717534D6F2A1.gif) no-repeat center center;
+  background: url(https://github.com/micahlt/micahincorporated/raw/master/GswqnT3%20-%20Imgur.gif) no-repeat center center;
   background-size: 100%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   height: 200%;
   padding: 0px;
   color: white
